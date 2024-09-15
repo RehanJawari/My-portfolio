@@ -481,6 +481,7 @@ nav ul a:hover {
   }
 }
 .img-side span img {
+   background-size: cover;
   -webkit-animation: rotate 9s linear infinite;
   animation: rotate 9s linear infinite;
   width: 19rem;
